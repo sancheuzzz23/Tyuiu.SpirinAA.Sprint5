@@ -15,7 +15,7 @@ namespace Tyuiu.SpirinAA.Sprint5.Task0.V7
             
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #5 | Выполнил: Спирин А. А. | АСОиУб-23-2";
+            Console.Title = "Спринт #5 | Выполнил: Спирин А. А. | АСОиУб-23-2"; 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Тема: Обработка файлов                                                  *");
